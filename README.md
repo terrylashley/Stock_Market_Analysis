@@ -15,7 +15,7 @@ VBA script analyzing the stock market from 2014 to 2016 in three parts.
 	* Ticker symbol
 * Add conditional formatting that will highlight positive change in green and negative change in red.
 
-### Part 3 (Hard):
+### Part 3:
 * Your solution will include everything from the moderate challenge.
 * Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
