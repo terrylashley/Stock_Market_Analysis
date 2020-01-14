@@ -2,7 +2,7 @@
 
 VBA script analyzing the stock market from 2014 to 2016 in three parts.
 
-### Part 1 (Easy):
+### Part 1:
 * Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 * Display the ticker symbol to coincide with the total volume.
 
